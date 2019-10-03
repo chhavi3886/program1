@@ -4,8 +4,8 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 # Approach
 This program solved in Pure Javascript language. There are two files in program:
-1)index.html 
-2)main.js
+1) index.html 
+2) main.js
 	index.html is main file in which we called the main.js file. In main.js we write the logic to solve the program. 
 
 # How to run
